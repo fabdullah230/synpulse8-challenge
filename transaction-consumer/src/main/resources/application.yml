@@ -1,0 +1,11 @@
+kafka:
+  bootstrapAddress: http://localhost:9092
+  topics:
+    topic:
+      name: transactiontopic
+  streams:
+    applicationId: transactionsStream
+    stateStoreName: temp
+jwt:
+  secret: challengeSecret
+  expirationDateInMs: 600000

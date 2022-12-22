@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/synpulse8-build.iml" filepath="$PROJECT_DIR$/.idea/synpulse8-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction-consumer/transaction-consumer.iml" filepath="$PROJECT_DIR$/transaction-consumer/transaction-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transaction-producer/transaction-producer.iml" filepath="$PROJECT_DIR$/transaction-producer/transaction-producer.iml" />
+    </modules>
+  </component>
+</project>
