@@ -8,9 +8,8 @@ How to run:
 
 Project Architecture
 
-
-
 Blue arrows represent program flow for creating transactions. Red arrows represent flow for retrieving transactions.
+![alt text](https://github.com/fabdullah230/synpulse8-challenge/blob/master/flow.png?raw=true)
 
 Creating Transactions
 
