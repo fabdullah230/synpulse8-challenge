@@ -57,18 +57,18 @@ The expected api response should be 200 OK in the following format.
 
 [  
 {  
-&emsp;"transactionIdentifier": "5d1a2004-d5af-48a7-8f84-0443042e5b47",
-&emsp;"accountIBAN": "MYR3-0000-1111-2222-3333",
-&emsp;"amount": "USD -22534.197",
-&emsp;"description": "ATM MYR WITHDRAWAL",
+&emsp;"transactionIdentifier": "5d1a2004-d5af-48a7-8f84-0443042e5b47",  
+&emsp;"accountIBAN": "MYR3-0000-1111-2222-3333",  
+&emsp;"amount": "USD -22534.197",  
+&emsp;"description": "ATM MYR WITHDRAWAL",  
 &emsp;"valueDate": "22-09-2020"  
 },  
 {  
-&emsp;"transactionIdentifier": "ea4d5f72-a767-434b-bcac-2a2f84981ac0",
-&emsp;"accountIBAN": "THB3-0000-1111-2222-3333",
-&emsp;"amount": "USD -2882.808",
-&emsp;"description": "ATM THB WITHDRAWAL",
-&emsp;"valueDate": "22-09-2020"  
+&emsp;"transactionIdentifier": "ea4d5f72-a767-434b-bcac-2a2f84981ac0",  
+&emsp;"accountIBAN": "THB3-0000-1111-2222-3333",  
+&emsp;"amount": "USD -2882.808",  
+&emsp;"description": "ATM THB WITHDRAWAL",  
+&emsp;"valueDate": "22-09-2020"    
 }  
 ]
 
